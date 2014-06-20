@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>TypeScript HTML App</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="Scripts/jquery-2.0.0.min.js"></script>
+    <script src="Scripts/knockout-2.3.0.js"></script>
+    <script src="Scripts/knockout.mapping-latest.js"></script>
+    <script src="gs.DataManagement.js"></script>
+    <script src="gs.BaseModel.js"></script>
+    <script src="app.js"></script>
+</head>
+<body>
+    <h1>ГрадСовет (Заседания)</h1>
+
+    <div id="content">
+        <label for="number">Номер</label>
+        <label id="number" data-bind="text: Meeting.MeetingNumber"></label>
+        <br/>
+        <label for="place">Место</label>
+        <label id="place" data-bind="text: Meeting.MeetingPlace"></label>
+        <br />
+        <label for="date">Дата</label>
+        <label id="date" data-bind="text: Meeting.MeetingDate"></label>
+    </div>
+</body>
+</html>

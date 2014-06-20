@@ -1,0 +1,87 @@
+﻿{
+    "d": {
+        "__metadata": {
+            "id": "Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)",
+            "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)",
+            "etag": "\"1\"",
+            "type": "SP.Data.MeetingListListItem"
+        },
+        "FirstUniqueAncestorSecurableObject": {
+            "__deferred": {
+                "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)/FirstUniqueAncestorSecurableObject"
+            }
+        },
+        "RoleAssignments": {
+            "__deferred": {
+                "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)/RoleAssignments"
+            }
+        },
+        "AttachmentFiles": {
+            "__deferred": {
+                "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)/AttachmentFiles"
+            }
+        },
+        "ContentType": {
+            "__deferred": {
+                "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)/ContentType"
+            }
+        },
+        "FieldValuesAsHtml": {
+            "__deferred": {
+                "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)/FieldValuesAsHtml"
+            }
+        },
+        "FieldValuesAsText": {
+            "__deferred": {
+                "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)/FieldValuesAsText"
+            }
+        },
+        "FieldValuesForEdit": {
+            "__deferred": {
+                "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)/FieldValuesForEdit"
+            }
+        },
+        "File": {
+            "__deferred": {
+                "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)/File"
+            }
+        },
+        "Folder": {
+            "__deferred": {
+                "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)/Folder"
+            }
+        },
+        "ParentList": {
+            "__deferred": {
+                "uri": "http://rgs1.dev.armd.ru/_api/Web/Lists(guid'286d1a0d-b2d8-4012-bba5-e0728a8be3c4')/Items(1)/ParentList"
+            }
+        },
+        "FileSystemObjectType": 0,
+        "Id": 1,
+        "ContentTypeId": "0x0100EC243C589FF24FEFBF00F3D3FE6ECD3600450678847C1CEA499CC76F4E73695291",
+        "Title": null,
+        "MeetingNumber": "1",
+        "MeetingTitle": null,
+        "MeetingPlace": "г. Химки, ул. Весенняя д.21 корп.2",
+        "MeetingDate": "2013-08-21T00:00:00Z",
+        "MeetingStatus": "Планируемое",
+        "ChairManFullNameLinkId": null,
+        "SecretaryFullNameLinkId": null,
+        "ProtocolExtParticipantsId": {
+            "__metadata": {
+                "type": "Collection(Edm.Int32)"
+            },
+            "results": []
+        },
+        "ProtocolResponsibleSecretaryLinkId": null,
+        "OtherParticipantsList": null,
+        "ID": 1,
+        "Modified": "2014-05-21T20:09:50Z",
+        "Created": "2014-05-21T20:09:50Z",
+        "AuthorId": 1,
+        "EditorId": 1,
+        "OData__UIVersionString": "1.0",
+        "Attachments": false,
+        "GUID": "6dc9aa11-e31e-40fa-8d84-3e52f6bb28de"
+    }
+}
